@@ -35,7 +35,7 @@ Welcome to **Cafe Finder**, a sleek web app designed to help you explore charmin
 
 ##  Preview
 
-*(Insert a high-quality screenshot or GIF of your app here to showcase the UI and layout.)*
+*
 
 ---
 
